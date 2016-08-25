@@ -4,8 +4,8 @@ import (
 	"errors"
 
 	"github.com/conformal/gotk3/glib"
-	"github.com/sourcegraph/go-webkit2/webkit2"
-	"github.com/sqs/gojs"
+	"github.com/delphinus35/go-webkit2/webkit2"
+	"github.com/delphinus35/gojs"
 )
 
 // ErrLoadFailed indicates that the View failed to load the requested resource.

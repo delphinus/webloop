@@ -6,7 +6,7 @@ import (
 	"runtime"
 
 	"github.com/conformal/gotk3/gtk"
-	"github.com/sourcegraph/webloop"
+	"github.com/delphinus35/webloop"
 )
 
 func Example() {
